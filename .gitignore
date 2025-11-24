@@ -1,0 +1,21 @@
+# Executáveis
+bin/
+p2pnet
+*.o
+*.out
+
+# Ficheiros temporários
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Vagrant
+.vagrant/
+
+# Logs
+*.log
+
+# Core dumps
+core
+vgcore.*
